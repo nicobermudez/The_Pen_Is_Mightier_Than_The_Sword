@@ -3,4 +3,4 @@
 [The Pen Is Mightier Than The Sword](https://week-1-homework-121.superhi.com/)
 
 designed by UK based digital designer Luke Willett (website and Twitter)
-adapted through Figma
+
