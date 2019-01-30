@@ -1,0 +1,39 @@
+section {
+  background-color: #ffffff;
+  background-position: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.page2 {
+  background-color: #000000;
+  background-position: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.page3 {
+  background-color: #ffffff;
+  background-position: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.page4 {
+  background-color: #000000;
+  background-position: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.page5 {
+  background-color: #00f10a;
+  background-position: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+footer {
+  position: fixed;
+  bottom: 30px;
+  width: 40px;
+  left: 50%;
+  margin-left: -20px;
+}
